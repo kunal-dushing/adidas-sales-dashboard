@@ -1,4 +1,6 @@
-# Adidas Sales Dashboard
+Adidas Sales Dashboard
+
+**Live dashboard:** https://kd-adidas-sales-dashboard.vercel.app
 
 A responsive static website exploring an Adidas US sales sample dataset for 2020–2021. The dashboard includes region and product filters, sales and profit KPIs, regional profit mix, product sales, and yearly trends.
 
